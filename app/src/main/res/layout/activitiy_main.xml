@@ -9,6 +9,6 @@
             android:text="@string/name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/name_text"
-            android:textSize="20sp"
-            android:textColor="#282828" android:textAlignment="center"/>
+            android:textAlignment="center"
+            style="@style/NameStyle"/>
 </LinearLayout>
