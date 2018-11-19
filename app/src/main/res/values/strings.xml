@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Henry Onyango</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio_resource">
+        Hi, my name is Henry Onyango.
+        \n\n A summary about me would be that I am an engineering student, a software engineer and an entrepreneur.
+        \n\n More to that is that I am also a funzi ambassador and a contributor on Medium, although none of it is paid.
+        \n\n\ I enjoy reading books (nothing soft copy), watching cartoons and playing video games.
+    </string>
+    <string name="nickname">Enter your nickname</string>
+    <string name="done">done</string>
 </resources>
